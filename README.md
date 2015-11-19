@@ -3,13 +3,12 @@ record and play audio in phonegap apps
 
 Version: 0.0.1
 
-Author: Christian Marienfeld post@chrisand.de
+Author: Christian Marienfeld post@chrisland.de
 
 
 ### Examples:
 
 	var rap = new recordAndPlay();
-
 
   var success = function () { console.log('done'); };
   var error = function (err) { console.log(err); };
