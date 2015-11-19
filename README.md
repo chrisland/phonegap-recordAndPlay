@@ -9,10 +9,10 @@ Author: Christian Marienfeld post@chrisland.de
 ### Examples:
 
 	var rap = new recordAndPlay();
-  var success = function () { console.log('done'); };
-  var error = function (err) { console.log(err); };
-  rap.record(success, error);
-  rap.play(success, error);
+	var success = function () { console.log('done'); };
+	var error = function (err) { console.log(err); };
+	rap.record(success, error);
+	rap.play(success, error);
 
 ### Methods:
 
